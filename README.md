@@ -1,5 +1,5 @@
 # Heroes
 
-## Daniel
+## Daniel , 20 , Escobar
 ## Maximiliano
 ## Marcos
