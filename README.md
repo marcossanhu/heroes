@@ -1,5 +1,5 @@
 # Heroes
 
-## Daniel , 20 , Escobar
-## Marcos 22 Cutral Có
-## Maximiliano , 26, San Miguel
+## Daniel Martinez, 20, Escobar
+## Marcos Sanhueza, 22, Cutral Có
+## Maximiliano Bazán, 26, San Miguel
